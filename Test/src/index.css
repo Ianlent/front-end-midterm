@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #192026;
+    margin: 15px 83px 15px 83px;
+}
